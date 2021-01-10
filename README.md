@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Girish Shinde and I am a Salesforce developer [@VMware](https://github.com/vmware). I've worked at Accenture before. 
-I enjoy developing in Javascript, Python, Java and love trying new things. 
+My name is Girish Shinde and I am a Salesforce developer [@VMware](https://github.com/vmware). I've worked at Accenture before.
 
-I'm currently learning Spring Framework and [Cloud Native Stack](https://thenewstack.io/what-is-the-modern-cloud-native-stack).
+I enjoy developing in Javascript, Python, Java and love trying new things. I'm currently learning Spring Framework and [Cloud Native Stack](https://thenewstack.io/what-is-the-modern-cloud-native-stack).
 
 You can reach out to me by -
 email : shinde.girish.r@gmail.com
