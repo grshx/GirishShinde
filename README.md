@@ -1,5 +1,3 @@
-# Girish Shinde
-
 Hi there 👋, I am a software engineer who loves to solve complex problems using code.
 
 - 🔭 I’m working on the Salesforce platform as an engineer.
